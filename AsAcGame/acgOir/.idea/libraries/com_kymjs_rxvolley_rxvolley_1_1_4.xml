@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.kymjs.rxvolley:rxvolley-1.1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/a9ed3c03ba1b7dfc7ebbc7d819bddcbc6ccf0035/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a9ed3c03ba1b7dfc7ebbc7d819bddcbc6ccf0035/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

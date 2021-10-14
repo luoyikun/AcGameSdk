@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nirvana.channelsdk">
+    <application>
+        <meta-data android:name="agent_class" android:value="com.nirvana.channelsdk.MainAgent"/>
+    </application>
+</manifest>

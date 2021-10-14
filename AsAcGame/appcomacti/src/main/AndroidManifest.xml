@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appcomacti">
+
+    <application>
+        <activity
+            android:name=".appcom"
+            android:label="@string/title_activity_appcom"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+    </application>
+
+</manifest>

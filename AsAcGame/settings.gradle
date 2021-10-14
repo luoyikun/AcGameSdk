@@ -1,0 +1,7 @@
+include ':acg'
+include ':appcomacti'
+include ':acgame0403'
+include ':TestAdd'
+include ':ACGame04021'
+include ':app'
+rootProject.name = "Test0402"
